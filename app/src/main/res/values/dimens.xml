@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="_tamanioTeclado">25sp</dimen>
+    <dimen name ="_tamanioResultado">32sp</dimen>
+</resources>
